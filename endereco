@@ -1,0 +1,10 @@
+create table endereco(
+
+Cep            int   primary key not null,
+Rua            varchar2(50)  not null,
+numero         int(10)       not null,
+pais           varchar2(50)  not null,
+estado         varchar2(50)  not null,
+cidade         varchar2(50)  not null,
+complemento    varchar2(50)  not null
+);
