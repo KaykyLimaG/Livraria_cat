@@ -1,0 +1,15 @@
+drop table Usuario
+
+create table Usuario(
+
+User_id    int not null primary key,
+Email      varchar2(50)    ,
+senha      varchar2(50)    ,
+Fname      varchar2(50)    ,
+Sname      varchar2(50)    ,
+celular    varchar2(50)    ,
+genero     varchar2(50)  
+);
+
+
+insert into Usuarios (User_id, Email, senha, Fname, Sname, celular, genero) values (1, 'Kayky', 'lima', 'kaykylima48@gmail.com', 'pokemon123', 11964367688, 'male');
