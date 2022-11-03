@@ -1,0 +1,42 @@
+create table Books(
+     Nome         varchar2(50) ,
+     Autora       varchar2(50) ,
+     genero       varchar2(50) ,
+     dataDeP      varchar2(50) ,
+     price        float
+ );
+ 
+ 
+ insert into Books values ('ASSIM QUE ACABA', 'Collen Hoover', 'romance', '18 janeiro 2018', 34.89);
+ insert into Books values ('A cinco passos de você', 'Rachael Lippincott', 'romance', '25 fevereiro 2019', 33.89);
+ insert into Books values ('Amor & Gelato', 'Jenna Evans Welch', 'romance', '21 julho 2017', 36.36);
+ insert into Books values ('Textos cruéis demais para serem lidos rapidamente', 'Igor Pires', 'romance', '10 novembro 2017', 25.00);
+ insert into Books values ('Teto Para Dois', 'Beth O’Leary', 'romance', '9 setembro 2019', 44.90);
+ insert into Books values ('Tarde demais', 'Collen Hoover', 'romance', '4 junho 2018', 33.25);
+ insert into Books values ('Todas as suas (im)perfeições', 'Collen Hoover', 'romance', '24 julho 2019', 27.88);
+ insert into Books values ('Me Chame Pelo Seu Nome', 'André Aciman', 'romance', '5 janeiro 2018', 28.89);
+ insert into Books values ('Uma Casa No Fundo De Um Lago', 'Josh Malerman', 'romance', '25 julho 2018', 19.90);
+ insert into Books values ('A pequena livraria dos sonhos: Onde os finais são sempre felizes', 'Jenny Colgan', 'romance', '29 abril 2019', 28.88);
+
+ insert into Books values ('Fogo & Sangue – Volume 1', 'George R. R. Martin', 'Ficção Científica', '20 novembro 2018', 72.90);
+ insert into Books values ('A Guerra dos Tronos : As Crônicas de Gelo e Fogo, volume 1', 'George R. R. Martin', 'Ficção Científica', '25 março 2019', 66.99);
+ insert into Books values ('A fúria dos reis: As Crônicas de Gelo e Fogo, volume 2', 'George R. R. Martin', 'Ficção Científica', '20 setembro 2019', 70.29);
+ insert into Books values ('A tormenta de espadas: As Crônicas de Gelo e Fogo, volume 3', 'George R. R. Martin', 'Ficção Científica', '20 setembro 2019', 67.90);
+ insert into Books values ('O Silmarillion', 'J.R.R. Tolkien', 'Ficção Científica', '19 março 2019', 45.90);
+ insert into Books values ('Box Trilogia O Senhor dos Anéis', 'J.R.R. Tolkien', 'Ficção Científica', '25 novembro 2019', 129.90);
+ insert into Books values ('O Hobbit', 'J.R.R. Tolkien', 'Ficção Científica', '15 julho 2019', 33.90);
+ insert into Books values ('Carmilla - A vampira de Karnstein', 'Le Fanu J. Sheridan', 'Ficção Científica', '13 setembro 2021', 19.90);
+ insert into Books values ('A Queda de Númenor: e outros contos da Segunda Era da Terra-média', 'J.R.R. Tolkien', 'Ficção Científica', '10 novembro 2021', 69.90);
+ insert into Books values ('O príncipe cruel (Vol. 1 O Povo do Ar)', 'Holly Black', 'Ficção Científica', '10 setembro 2018', 41.88);
+ 
+ insert into Books values ('Verity', ' Colleen Hoover', 'Suspense', '9 março 2020', 35.81);
+ insert into Books values ('E não sobrou nenhum', 'Agatha Christie', 'Suspense', '1 junho 2014', 30.69);
+ insert into Books values ('A paciente silenciosa', 'Alex Michaelides', 'Suspense', '20 maio 2019', 36.58);
+ insert into Books values ('O Homem de Giz', 'C. J. Tudor', 'Suspense', '15 março 2018', 39.10);
+ insert into Books values ('Precisamos Falar Sobre o Kevin', 'Lionel Shriver', 'Suspense', '16 outubro 2007', 40.98);
+ insert into Books values ('O iluminado', 'Stephen King', 'Suspense', '22 agosto 2017', 71.92);
+ insert into Books values ('Misery: Louca obsessão', 'Stephen King', 'Suspense', '22 abril 2014', 29.79);
+ insert into Books values ('It: A coisa', 'Stephen King', 'Suspense', '24 julho 2014', 64.90);
+ insert into Books values ('Doutor sono', 'Stephen King', 'Suspense', '23 outubro 2014', 48.17);
+ insert into Books values ('Carrie', 'Stephen King', 'Suspense', '23 fevereiro 2022', 49.96);
+ 
