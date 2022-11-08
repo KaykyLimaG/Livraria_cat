@@ -40,3 +40,24 @@ create table Books(
  insert into Books values ('Doutor sono', 'Stephen King', 'Suspense', '23 outubro 2014', 48.17);
  insert into Books values ('Carrie', 'Stephen King', 'Suspense', '23 fevereiro 2022', 49.96);
  
+insert into Books values ('Amante Sombrio ( Irmandade da Adaga Negra)', 'J R Ward', 'erótico', '6 de setembro de 2005', 15.60);
+insert into Books values ('Cinquenta Tons de Cinza', 'E. L. James', 'erótico', '25 de maio de 2011', 18.00);
+insert into Books values ('Ele: Quando Ryan conheceu James', 'Bowen, Sarina; Kennedy, Elle', 'erótico', '28 de julho de 2015', 20.00);
+insert into Books values ('Entre o Agora e o Nunca', 'J. A. Redmerski', 'erótico', '13 de novembro de 2012', 6.00);
+insert into Books values ('Juliette Society', 'Sasha Grey', 'erótico', '9 de maio de 2013', 6.00);
+insert into Books values ('Os Desejos da Bela Adormecida', 'Anne Rice', 'erótico', '1 de março de 1983', 6.00);
+insert into Books values ('Peça-me o Que Quiser', 'Megan Maxwell', 'erótico', '8 de novembro de 2012', 12.00);
+insert into Books values ('Toda Sua', 'Sylvia Day', 'erótico', '3 de abril de 2012', 6.00);
+insert into Books values ('Um sedutor sem coração', 'Kleypas, Lisa', 'erótico', '5 de fevereiro de 2018', 10.00);
+insert into Books values ('Fascinante Vilã eBook Kindle', 'Karine Vidal', 'erótico', '6 de agosto de 2021', 7.90);
+
+insert into Books values ('Frankenstein', 'Mary Shelley', 'ação e aventura', '1 de janeiro de 1818', 36.90);
+insert into Books values ('Androides Sonham com Ovelhas Elétricas?', 'Philip K. Dick', 'ação e aventura', '9 de janeiro de 1968', 58.55);
+insert into Books values ('Solaris', 'Stanislaw Lem', 'ação e aventura', '27 de novembro de 2002', 71.91);
+insert into Books values ('2001: Uma Odisséia no Espaço', 'Arthur C. Clarke', 'ação e aventura', '29 de abril de 1968', 35.04);
+insert into Books values ('A Guerra dos Mundos', 'H. G. Wells', 'ação e aventura', '4 de abril de 1898', 32.80);
+insert into Books values ('Nós', 'Iêvgueni Zamiátin', 'ação e aventura', '14 de abril de 1924', 56.24);
+insert into Books values ('A Mão Esquerda da Escuridão', 'Ursula K. Le Guin', 'ação e aventura', '8 de janeiro de 1969', 39.55);
+insert into Books values ('Neuromancer', 'William Gibson', 'ação e aventura', '1 de julho de 1984', 29.90);
+insert into Books values ('O Guia Definitivo do Mochileiro das Galáxias', 'Douglas Adams', 'ação e aventura', '12 de outubro de 1979', 60.90);
+insert into Books values ('Eu, Robô', 'Isaac Asimov', 'ação e aventura', '2 de dezembro de 1950', 27.89);
