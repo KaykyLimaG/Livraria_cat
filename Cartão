@@ -1,9 +1,9 @@
-create table cartao(
+ create table cartao(
 
      numero         number(16) ,
      nome           varchar2(70) ,
-     DataValidade   varchar2(50) ,
+     DataValidade   varchar2(4) ,
      cvv            number(3) ,
-     id             float(50)
+     id             varchar2(50)
      
  );
